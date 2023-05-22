@@ -1,6 +1,6 @@
 # Combo of Thinking and Observing for Outside-Knowledge VQA
 
-# Coming Soon. (By 2023.6 at the latest)
+# More details and data are coming Soon. (By 2023.6 at the latest)
 
 ## Requirements
 ```
