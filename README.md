@@ -1,6 +1,8 @@
 # Combo of Thinking and Observing for Outside-Knowledge VQA
 
-# More details and data are coming Soon. (By 2023.6 at the latest)
+# Full data and models can be found at [here](https://huggingface.co/datasets/QingyiSi/Thinking-while-Observing/tree/main).
+
+# More details and data are coming Soon. (By 2023.7 at the latest)
 
 ## Requirements
 ```
